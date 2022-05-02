@@ -1,0 +1,607 @@
+,Precio,Marca,Modelo,Año,Color,Tipo_de_combustible,Puertas,Transmision,Motor,Tipo_de_carroceria,Km
+0,"290,000",Nissan,Sentra,2019,Café,Gasolina,4,Automática,1.8,Sedán,51000 km
+1,"360,000",Nissan,X-Trail,2017,Negro,Gasolina,5,Automática,2.5,SUV,77976 km
+2,"309,000",SEAT,Leon,2016,Gris,Gasolina,3,Automática,1.4,Hatchback,65240 km
+3,"409,000",Jeep,Grand Cherokee,2015,Granito,Gasolina,5,Automática,3.6,SUV,112242 km
+4,"479,000",Buick,Enclave,2017,Blanco,Gasolina,5,Automática,3.6,SUV,91931 km
+5,"699,000",Honda,Odyssey,2019,Azul,Gasolina,5,Automática,3.5,Van,45050 km
+6,"499,000",Chevrolet,Silverado,2017,Plateado,Gasolina,4,Automática,5.3,Pick-Up,104199 km
+7,"284,000",Chevrolet,Trax,2017,Plateado,Gasolina,5,Automática,1.8,SUV,67511 km
+8,"529,000",GMC,Acadia,2017,Negro,Gasolina,5,Automática,3.6,SUV,82000 km
+9,"323,000",Nissan,Versa,2020,Gris,Gasolina,4,Automática,1.6,Sedán,42000 km
+10,"189,900",Hyundai,Grand i10,2018,Blanco,Gasolina,4,Manual,1.2,Sedán,106500 km
+11,"250,000",Nissan,March,2020,Blanco,Gasolina,5,Automática,1.6,Hatchback,55770 km
+12,"202,000",Chevrolet,Aveo,2020,Rojo Cobrizo,Gasolina,4,Automática,1.6,Sedán,68001 km
+13,"288,000",Nissan,Pathfinder,2014,Plateado,Gasolina,5,Automática,3.5,SUV,110700 km
+14,"319,000",Honda,BR-V,2018,Blanco,Gasolina,5,Automática,1.5,SUV,94620 km
+15,"399,000",Kia,Sorento,2016,Café,Gasolina,5,Automática,3.3,SUV,68756 km
+16,"529,000",Honda,CR-V,2019,Gris,Gasolina,5,Automática,1.5,SUV,115723 km
+17,"675,000",BMW,X5,2017,Plateado,Gasolina,5,Automática,4.4,SUV,75441 km
+18,"259,000",Nissan,Versa,2020,Rojo,Gasolina,4,Manual,1.6,Sedán,29341 km
+19,"244,000",Nissan,March,2020,Blanco,Gasolina,5,Manual,1.6,Hatchback,30488 km
+20,"201,900",SEAT,Freetrack,2015,Plateado,Gasolina,5,Automática,2.0,SUV,120700 km
+21,"810,000",Chevrolet,Cheyenne,2018,Negro,Gasolina,4,Automática,6.2,Pick-Up,54173 km
+22,"669,900",Nissan,NP300 Frontier,2020,Plateado,Diésel,2,Automática,2.5,Pick-Up,56000 km
+23,"268,000",Nissan,Sentra,2018,Plateado,Gasolina,4,Automática,1.8,Sedán,90606 km
+24,"410,000",Dodge,Journey,2019,Gris,Gasolina,5,Automática,3.7,SUV,28870 km
+25,"208,900",Hyundai,Grand i10,2019,Blanco,Gasolina,4,Manual,1.2,Sedán,82642 km
+26,"200,000",Chevrolet,Cavalier,2019,Blanco,Gasolina,4,Manual,1.5,Sedán,60000 km
+27,"496,900",Kia,Sorento,2018,Blanco,Gasolina,5,Automática,3.3,SUV,49000 km
+28,"800,000",GMC,Yukon,2015,Plateado,Gasolina,5,Automática,6.2,SUV,69344 km
+29,"299,500",Chevrolet,Cavalier,2020,Gris,Gasolina,4,Automática,1.5,Sedán,34587 km
+30,"218,000",Chevrolet,Aveo,2020,Plateado,Gasolina,4,Automática,1.6,Sedán,48898 km
+31,"1,049,800",Ford,Expedition,2019,Azul,Gasolina,5,Automática,3.5,SUV,32300 km
+32,"379,000",Mercedes-Benz,Clase CLA,2016,Gris,Gasolina,4,Automática,1.6,Sedán,65173 km
+33,"549,000",Dodge,Ram 1500,2018,Blanco,Gasolina,5,Automática,3.6,Pick-Up,59978 km
+34,"309,000",SEAT,Leon,2016,Gris,Gasolina,3,Automática,1.4,Hatchback,65240 km
+35,"499,000",Chevrolet,Silverado,2017,Plateado,Gasolina,4,Automática,5.3,Pick-Up,104199 km
+36,"284,000",Chevrolet,Trax,2017,Plateado,Gasolina,5,Automática,1.8,SUV,67511 km
+37,"810,000",Chevrolet,Cheyenne,2018,Negro,Gasolina,4,Automática,6.2,Pick-Up,54173 km
+38,"410,000",Dodge,Journey,2019,Gris,Gasolina,5,Automática,3.7,SUV,28870 km
+39,"800,000",GMC,Yukon,2015,Plateado,Gasolina,5,Automática,6.2,SUV,69344 km
+40,"299,500",Chevrolet,Cavalier,2020,Gris,Gasolina,4,Automática,1.5,Sedán,34587 km
+41,"499,000",Nissan,Murano,2019,Blanco,Gasolina,5,Automática,3.5,SUV,34569 km
+42,"239,000",Toyota,Yaris,2019,Blanco,Gasolina,4,Manual,1.5,Sedán,63857 km
+43,"439,000",Audi,Q5,2016,Blanco,Gasolina,5,Automática,2.0,SUV,56600 km
+44,"299,000",Infiniti,QX70,2014,Negro,Gasolina,5,Manual,.,Hatchback,120826 km
+45,"590,000",Nissan,Pathfinder,2018,Plateado,Gasolina,5,Automática,3.5,SUV,36565 km
+46,"277,425",Chevrolet,Onix,2021,Plateado,Gasolina,5,Manual,3 cil turbo,Sedán,21023 km
+47,"305,000",Chevrolet,Onix,2021,Rojo,Gasolina,4,Manual,1.0,Sedán,46588 km
+48,"1,200,000",Lincoln,Corsair,2020,Gris,Gasolina,5,Automática,2.3,Vagoneta,7037 km
+49,"565,000",Nissan,NP300 Frontier,2020,Blanco,Gasolina,4,Manual,2.5,Pick-Up,14172 km
+50,"250,000",Chevrolet,Cruze,2017,Azul,Gasolina,4,Automática,1.4,Sedán,104355 km
+51,"240,000",Volkswagen,Gol,2020,Plateado,Gasolina,4,Manual,1.6,Sedán,45465 km
+52,"199,000",Volkswagen,Vento,2018,Beige,Gasolina,4,Automática,1.6,Sedán,96603 km
+53,"349,000",Buick,Enclave,2015,Gris,Gasolina,5,Automática,3.6,SUV,95295 km
+54,"450,000",Mini,Cooper,2019,Blanco,Gasolina,3,Automática,1.5,Hatchback,90911 km
+55,"205,000",Renault,Duster,2015,Blanco,Gasolina,5,Automática,2.0,SUV,95973 km
+56,"440,000",Mercedes-Benz,Clase GLA,2017,Blanco,Gasolina,5,Automática,1.6,SUV,100635 km
+57,"490,000",Jeep,Cherokee,2015,Gris oscuro,Gasolina,5,Automática,5.7L HEMI V8,SUV,60002 km
+58,"210,000",SEAT,Ibiza,2015,Blanco,Gasolina,5,Manual,1.2,Hatchback,75520 km
+59,"469,000",Kia,Seltos,2020,Gris,Gasolina,5,Automática,1.4,SUV,20000 km
+60,"921,900",Chevrolet,Silverado,2022,Azul,Gasolina,4,Automática,2.7 L,Pick-Up,0 km
+61,"399,900",Mercedes-Benz,Clase C,2015,Negro,Gasolina,4,Automática,2.0,Sedán,70559 km
+62,"529,900",GMC,Acadia,2017,Dorado,Gasolina,5,Automática,3.7,SUV,59000 km
+63,"1,889,000",Chevrolet,Cheyenne,2020,Blanco,Gasolina,4,Automática,5.4,Pick-Up,40000 km
+64,"779,900",Ford,Mustang,2020,Rojo,Gasolina,2,Automática,2.3,Coupé,7984 km
+65,"189,800",SEAT,Ibiza,2015,Azul,Gasolina,5,Manual,2.0L,Hatchback,51000 km
+66,"279,000",Toyota,Yaris,2019,PLATA,Gasolina,4,Manual,"1.5L, 107 Hp y 140 Lb/Pie",Sedán,44157 km
+67,"1,889,000",Volkswagen,AMAROK V6 BLINDADA NIVEL 4 2012,2021,Negro,Diésel,4,Automática,V6,Pick-Up,10000 km
+68,"765,000",Nissan,Pathfinder,2020,Negro,Gasolina,5,Automática,3.5,SUV,16690 km
+69,"229,900",Renault,Duster,2017,Negro,Gasolina,5,Manual,2.0,SUV,68000 km
+70,"219,900",Ford,Fusion,2013,Negro,Gasolina,4,Manual,2.5,Sedán,79000 km
+71,"382,000",RAM,Ram 2500,2017,Rojo,Gasolina,4,Automática,SLT V8,Pick-Up,105517 km
+72,"382,000",Dodge,Ram 2500,2017,Rojo,Gasolina,4,Automática,SLT V8,Pick-Up,105517 km
+73,"397,000",Toyota,CH-R,2019,Gris,Gasolina,5,Automática,4 CIL,SUV,40000 km
+74,"320,000",Renault,Captur,2019,MARFIL+NEGRO,Gasolina,4,Manual,2.0 LT,SUV,32009 km
+75,"489,990",Ford,Explorer,2016,Negro,Gasolina,5,Automática,6 cilindros - 6 velocidades - 290 hp - 4 válvulas,SUV,64104 km
+76,"467,900",Chevrolet,Cavalier,2022,Rojo,Gasolina,4,Automática,3 cilindros - Variable velocidades - 161 hp -,Sedán,900 km
+77,"1,888,900",Chevrolet,Suburban,2022,Blanco,Gasolina,5,Automática,8 cilindros - 425 hp - 2 válvulas,SUV,100 km
+78,"336,000",Chevrolet,Trax,2019,Rojo Cobrizo,Gasolina,5,Automática,1.8,SUV,38862 km
+79,"190,000",Chevrolet,Beat,2019,Negro,Gasolina,4,Manual,1.2,Sedán,58000 km
+80,"195,000",Nissan,Sentra,2016,Blanco,Gasolina,4,Manual,1.8,Sedán,62200 km
+81,"175,000",Chevrolet,Sonic,2016,Azul,Gasolina,4,Automática,1.6,Sedán,81344 km
+82,"379,000",Honda,CR-V,2016,Plateado,Gasolina,5,Automática,2.4,SUV,68000 km
+83,"430,000",Nissan,Pathfinder,2017,Azul,Gasolina,5,Automática,3.5,SUV,59278 km
+84,"335,000",Mazda,Mazda 2,2020,Gris,Gasolina,4,Automática,1.5,Sedán,21337 km
+85,"231,900",Chevrolet,Trax,2016,Blanco,Gasolina,5,Manual,1.8,SUV,96000 km
+86,"520,000",RAM,Promaster,2019,Blanco,Gasolina,4,Automática,3.6,Furgoneta,53471 km
+87,"320,000",SEAT,Ibiza,2020,Gris,Gasolina,5,Manual,1.6,Hatchback,67000 km
+88,"1,049,800",Ford,Expedition,2019,Azul,Gasolina,5,Automática,3.5,SUV,32300 km
+89,"494,900",Nissan,X-Trail,2019,Blanco,Gasolina,5,Automática,2.5,SUV,64860 km
+90,"379,000",Mercedes-Benz,Clase CLA,2016,Gris,Gasolina,4,Automática,1.6,Sedán,65173 km
+91,"347,000",Honda,Civic,2017,Azul oscuro,Gasolina,4,Automática,1.5,Sedán,65081 km
+92,"549,000",Land Rover,Range Rover,2013,Plateado,Gasolina,5,Automática,5.0,Sedán,70428 km
+93,"290,000",Nissan,Sentra,2019,Café,Gasolina,4,Automática,1.8,Sedán,51000 km
+94,"360,000",Nissan,X-Trail,2017,Negro,Gasolina,5,Automática,2.5,SUV,77976 km
+95,"309,000",SEAT,Leon,2016,Gris,Gasolina,3,Automática,1.4,Hatchback,65240 km
+96,"479,000",Buick,Enclave,2017,Blanco,Gasolina,5,Automática,3.6,SUV,91931 km
+97,"699,000",Honda,Odyssey,2019,Azul,Gasolina,5,Automática,3.5,Van,45050 km
+98,"499,000",Chevrolet,Silverado,2017,Plateado,Gasolina,4,Automática,5.3,Pick-Up,104199 km
+99,"284,000",Chevrolet,Trax,2017,Plateado,Gasolina,5,Automática,1.8,SUV,67511 km
+100,"529,000",GMC,Acadia,2017,Negro,Gasolina,5,Automática,3.6,SUV,82000 km
+101,"202,000",Chevrolet,Aveo,2020,Rojo Cobrizo,Gasolina,4,Automática,1.6,Sedán,68001 km
+102,"319,000",Honda,BR-V,2018,Blanco,Gasolina,5,Automática,1.5,SUV,94620 km
+103,"529,000",Honda,CR-V,2019,Gris,Gasolina,5,Automática,1.5,SUV,115723 km
+104,"675,000",BMW,X5,2017,Plateado,Gasolina,5,Automática,4.4,SUV,75441 km
+105,"259,000",Nissan,Versa,2020,Rojo,Gasolina,4,Manual,1.6,Sedán,29341 km
+106,"244,000",Nissan,March,2020,Blanco,Gasolina,5,Manual,1.6,Hatchback,30488 km
+107,"810,000",Chevrolet,Cheyenne,2018,Negro,Gasolina,4,Automática,6.2,Pick-Up,54173 km
+108,"669,900",Nissan,NP300 Frontier,2020,Plateado,Diésel,2,Automática,2.5,Pick-Up,56000 km
+109,"268,000",Nissan,Sentra,2018,Plateado,Gasolina,4,Automática,1.8,Sedán,90606 km
+110,"410,000",Dodge,Journey,2019,Gris,Gasolina,5,Automática,3.7,SUV,28870 km
+111,"496,900",Kia,Sorento,2018,Blanco,Gasolina,5,Automática,3.3,SUV,49000 km
+112,"800,000",GMC,Yukon,2015,Plateado,Gasolina,5,Automática,6.2,SUV,69344 km
+113,"299,500",Chevrolet,Cavalier,2020,Gris,Gasolina,4,Automática,1.5,Sedán,34587 km
+114,"499,000",Nissan,Murano,2019,Blanco,Gasolina,5,Automática,3.5,SUV,34569 km
+115,"239,000",Toyota,Yaris,2019,Blanco,Gasolina,4,Manual,1.5,Sedán,63857 km
+116,"439,000",Audi,Q5,2016,Blanco,Gasolina,5,Automática,2.0,SUV,56600 km
+117,"582,000",GMC,Sierra,2017,Blanco,Gasolina,2,Automática,5.4,Pick-Up,115248 km
+118,"299,000",Infiniti,QX70,2014,Negro,Gasolina,5,Manual,.,Hatchback,120826 km
+119,"224,000",Kia,Forte,2018,Gris oscuro,Gasolina,4,Manual,2.0,Sedán,28663 km
+120,"590,000",Nissan,Pathfinder,2018,Plateado,Gasolina,5,Automática,3.5,SUV,36565 km
+121,"595,000",Nissan,X-Trail,2020,Rojo,Gasolina,5,Automática,2.5,SUV,37518 km
+122,"395,000",Nissan,X-Trail,2019,Rojo,Gasolina,5,Automática,2.5,SUV,77000 km
+123,"534,800",Nissan,X-Trail,2020,Blanco,Gasolina,5,Automática,2.5,SUV,37003 km
+124,"145,000",Chevrolet,Spark,2017,Blanco,Gasolina,5,Manual,1.2,Hatchback,87788 km
+125,"249,000",Chevrolet,Cruze,2018,Negro,Gasolina,4,Manual,1.4,Sedán,30350 km
+126,"357,000",Mini,Cooper,2017,Azul,Gasolina,3,Automática,1.5,Hatchback,45000 km
+127,"393,000",Toyota,Otros modelos,2019,Azul,Gasolina,5,Automática,2.0,SUV,48983 km
+128,"326,000",Volkswagen,Jetta,2018,Azul,Gasolina,4,Automática,2.5,Sedán,74278 km
+129,"368,000",Honda,HR-V,2018,Azul marino,Gasolina,5,Automática,1.8,SUV,27608 km
+130,"254,000",Chevrolet,Trax,2016,Naranja,Gasolina,5,Automática,1.8,SUV,109514 km
+131,"424,000",Toyota,Tacoma,2014,Blanco,Gasolina,4,Automática,4.0,Pick-Up,113144 km
+132,"290,000",Kia,Sportage,2016,Negro,Gasolina,5,Automática,2.0,SUV,86919 km
+133,"340,000",Volkswagen,CC,2017,Negro,Gasolina,4,Automática,2.0,Sedán,46210 km
+134,"236,000",Chevrolet,Trax,2016,Plateado,Gasolina,5,Manual,1.8,SUV,29625 km
+135,"263,000",Renault,Duster,2018,Rojo,Gasolina,5,Manual,2.0,SUV,54570 km
+136,"340,000",BMW,X3,2014,Azul,Gasolina,5,Automática,2.0,SUV,94382 km
+137,"297,000",Toyota,Yaris,2019,Rojo,Gasolina,4,Automática,1.5,Sedán,31421 km
+138,"346,900",Chevrolet,Onix,2022,Blanco,Gasolina,4,Manual,1.0,Sedán,50 km
+139,"356,000",Chevrolet,Onix,2022,Blanco,Gasolina,4,Manual,1.0,Sedán,50 km
+140,"346,900",Chevrolet,Onix,2022,Blanco,Gasolina,4,Manual,1.0,Sedán,50 km
+141,"339,000",Volkswagen,Golf,2017,Plateado,Gasolina,5,Automática,1.4,Hatchback,74234 km
+142,"198,000",Nissan,Versa,2017,Plateado,Gasolina,4,Automática,1.6,Sedán,55833 km
+143,"346,000",Chevrolet,Onix,2022,Plateado,Gasolina,4,Manual,1.0,Sedán,50 km
+144,"459,000",Toyota,Camry,2019,Plateado,Gasolina,4,Automática,2.5,Sedán,35367 km
+145,"470,000",Hyundai,Tucson,2019,Plateado,Gasolina,5,Automática,2.4,SUV,16534 km
+146,"455,000",BMW,Serie 3,2017,Plateado,Gasolina,4,Automática,2.0,Sedán,63290 km
+147,"179,000",Chevrolet,Sonic,2016,Negro,Gasolina,4,Manual,1.6,Sedán,78764 km
+148,"223,000",Chevrolet,Aveo,2020,Azul,Gasolina,4,Manual,1.6,Sedán,22106 km
+149,"350,000",Chevrolet,Cavalier,2022,Blanco,Gasolina,4,Automática,1.3,Sedán,50 km
+150,"659,000",Honda,CR-V,2020,Gris oscuro,Gasolina,5,Automática,1.5,SUV,3465 km
+151,"485,000",Honda,CR-V,2017,Negro,Gasolina,5,Automática,1.5,SUV,81764 km
+152,"259,000",SEAT,Toledo,2016,Azul,Gasolina,4,Manual,1.2,Sedán,84991 km
+153,"219,000",Volkswagen,Vento,2015,Beige,Gasolina,4,Automática,1.6,Sedán,32945 km
+154,"210,000",Ford,Fiesta,2016,Negro,Gasolina,4,Automática,1.6,Hatchback,102406 km
+155,"714,000",Alfa Romeo,Giulia,2017,Negro,Gasolina,4,Automática,2.0,Sedán,8335 km
+156,"268,000",Nissan,Altima,2016,Plateado,Gasolina,4,Automática,3.5,Sedán,58052 km
+157,"249,000",Audi,A1,2013,Plateado,Gasolina,3,Automática,1.4,Hatchback,69455 km
+158,"350,000",Mazda,3,2020,Azul acero,Gasolina,5,Automática,2.5,Hatchback,27604 km
+159,"259,000",Chevrolet,Cavalier,2018,Blanco,Gasolina,4,Automática,1.5,Sedán,48871 km
+160,"635,000",Chevrolet,Suburban,2016,Plateado,Gasolina,5,Automática,5.3,SUV,51517 km
+161,"220,000",Toyota,Yaris,2016,Rojo,Gasolina,5,Automática,1.5,Hatchback,63714 km
+162,"448,000",Toyota,Corolla,2021,Rojo,Híbrido,4,Automática,1.8,Sedán,51342 km
+163,"569,000",Honda,Ridgeline,2019,Rojo,Híbrido/Gasolina,4,Automática,1.5,Sedán,19318 km
+164,"230,000",Mazda,Mazda 6,2015,Rojo,Gasolina,5,Manual,2.0,Hatchback,155388 km
+165,"149,000",Dodge,Attitude,2016,Blanco,Gasolina,4,Automática,1.2,Sedán,54930 km
+166,"213,000",Nissan,Versa,2018,Azul,Gasolina,4,Manual,1.6,Sedán,54769 km
+167,"434,000",Ford,Transit,2017,Blanco,Gasolina,4,Automática,3.7,Furgoneta,74228 km
+168,"246,000",Subaru,Forester,2015,Negro,Gasolina,5,Automática,2.5,SUV,107652 km
+169,"425,000",Mercedes-Benz,Clase CLA,2016,Plateado,Gasolina,4,Automática,1.6,Sedán,50253 km
+170,"355,000",Toyota,Prius,2017,Rojo,Híbrido,5,Automática,1.8,Sedán,78320 km
+171,"189,900",Chevrolet,Beat,2019,Blanco,Gasolina,5,Manual,1.2,Hatchback,44097 km
+172,"475,000",Audi,A1,2021,Negro,Gasolina,5,Automática,1.0,Hatchback,5955 km
+173,"400,000",Alfa Romeo,Mito,2019,Azul,Gasolina,3,Manual,1.4,Hatchback,16936 km
+174,"579,000",Volkswagen,Tiguan,2020,Negro,Gasolina,5,Automática,1.4,SUV,21432 km
+175,"290,000",Nissan,Sentra,2019,Café,Gasolina,4,Automática,1.8,Sedán,51000 km
+176,"347,999",Chevrolet,Trax,2020,Rojo,Gasolina,5,Automática,1.8,SUV,14512 km
+177,"277,425",Chevrolet,Onix,2021,Plateado,Gasolina,5,Manual,3 cil turbo,Sedán,21023 km
+178,"505,000",Chevrolet,Equinox,2019,Rojo,Gasolina,5,Automática,1.5,SUV,20587 km
+179,"659,000",Kia,Forte,2020,Blanco,Gasolina,4,Automática,2.0,Sedán,65000 km
+180,"235,000",Chevrolet,Spark,2020,Plateado,Gasolina,5,Manual,4 cil,Hatchback,8519 km
+181,"659,000",Volkswagen,Golf,2021,Rojo,Gasolina,5,Automática,2.0,Coupé,12000 km
+182,"345,900",Kia,Forte,2020,Gris oscuro,Gasolina,5,Manual,2.0,Hatchback,31740 km
+183,"399,800",Kia,Forte,2020,Gris,Gasolina,4,Automática,1.6,Sedán,42895 km
+184,"304,600",Kia,Forte,2018,Plateado,Gasolina,5,Manual,2.0,Hatchback,21176 km
+185,"921,900",Chevrolet,Silverado,2022,Azul,Gasolina,4,Automática,2.7 L,Pick-Up,0 km
+186,"926,900",Buick,Envision,2022,Violeta,Gasolina,5,Automática,2.0 Turbo,SUV,0 km
+187,"385,000",SEAT,Arona,2020,Gris,Gasolina,5,Automática,1.6,SUV,24948 km
+188,"318,000",Suzuki,Vitara,2018,Rojo,Gasolina,5,Manual,1.4,SUV,101000 km
+189,"921,900",Chevrolet,Silverado,2022,Azul,Gasolina,4,Automática,2.7,Pick-Up,0 km
+190,"453,500",Volkswagen,T-Cross,2020,Azul,Gasolina,5,Automática,1.6,SUV,9000 km
+191,"232,500",Volkswagen,Jetta,2014,Plateado,Gasolina,4,Automática,2.5,Sedán,42000 km
+192,"389,900",Jeep,Renegade,2020,Blanco,Gasolina,5,Automática,1.8,SUV,57320 km
+193,"949,900",Ford,Lobo,2019,Blanco,Gasolina,4,Automática,3.5,Pick-Up,27000 km
+194,"729,000",Jeep,Grand Cherokee,2017,Plateado,Gasolina,5,Manual,3.6,SUV,23000 km
+195,"341,600",Toyota,Prius,2018,Gris,Gasolina,5,Automática,1.8,Hatchback,44000 km
+196,"285,200",Mitsubishi,Mirage,2023,Negro,Gasolina,4,Manual,"1.2 litros, 3 cilindros",Sedán,0 km
+197,"219,500",SEAT,Toledo,2016,Plateado,Gasolina,4,Automática,1.6,Sedán,80651 km
+198,"262,900",Mercedes-Benz,Clase E,2011,Negro,Gasolina,4,Automática,3.5,Sedán,56280 km
+199,"579,900",Mercedes-Benz,Clase GLE,2016,Gris,Gasolina,5,Automática,3.0,SUV,55280 km
+200,"469,700",Nissan,Frontier,2021,Plateado,Gasolina,4,Manual,2.5 LTS,Pick-Up,4845 km
+201,"469,500",Nissan,Frontier,2021,Plateado,Gasolina,4,Manual,2.5 LTS,Pick-Up,7913 km
+202,"469,900",Nissan,Frontier,2021,Plateado,Gasolina,4,Manual,2.5 LTS.,Pick-Up,1388 km
+203,"639,000",BMW,X2,2018,Azul,Gasolina,5,Automática,2.0,Minivan,44000 km
+204,"349,000",SEAT,Ibiza,2019,Azul,Gasolina,5,Manual,1.6,Hatchback,12625 km
+205,"438,500",BMW,X5,2011,Azul,Gasolina,5,Automática,4.8,SUV,62000 km
+206,"499,000",Mazda,CX-30,2021,Plateado,Gasolina,5,Automática,2.5,SUV,11381 km
+207,"467,900",Chevrolet,Cavalier,2022,Negro,Gasolina,4,Automática,1.5 L 4 CIL,Sedán,30 km
+208,"698,500",Infiniti,QX80,2017,Negro,Gasolina,5,Automática,5.6,SUV,64000 km
+209,"295,000",Mercedes-Benz,Clase E,2007,Plateado,Gasolina,4,Manual,5.0,Sedán,87000 km
+210,"969,000",Ford,Mustang,2021,Azul,Gasolina,2,Automática,5.0,Coupé,11988 km
+211,"355,000",Kia,Rio,2021,Azul,Gasolina,4,Automática,1.6,Sedán,16309 km
+212,"468,900",Volkswagen,Caddy,2020,Gris,Gasolina,5,Manual,1.6,Furgoneta,22000 km
+213,"274,990",Volkswagen,Saveiro,2022,Rojo,Gasolina,3,Manual,4 Cls. 1.6 Lts.,Pick-Up,0 km
+214,"834,300",Ford,Ranger,2022,Blanco,Gasolina,4,Automática,Pick-Up,0 km,
+215,"295,000",Volkswagen,Polo,2021,Gris,Gasolina,5,Manual,1.6 L,Hatchback,19350 km
+216,"961,100",Audi,Q3 Sportback,2022,Gris,Gasolina,5,Automática,"4 cil. en línea, TFSI",SUV,0 km
+217,"3,347,450",Audi,RS e-tron,2022,Gris,Eléctrico,5,Automática,475 kW,Sedán,0 km
+218,"3,014,800",Audi,RS7,2022,Gris,Gasolina,5,Automática,8 cil. TFSI en V / 48V Mild Hybrid,Sedán,0 km
+219,"1,359,330",RAM,Ram 1500,2022,Negro,Híbrido/Gasolina,4,Automática,V8 5.7 lts mild hybrid,Pick-Up,0 km
+220,"1,132,900",Jeep,Wrangler,2022,Negro,Híbrido/Gasolina,5,Automática,V6 3.6 lts mild Hybrid,Todo terreno,0 km
+221,"439,900",Chevrolet,S-10,2022,Blanco,Gasolina,4,Manual,2.4 LITROS,Pick-Up,2 km
+222,"259,000",Chevrolet,Cavalier,2018,Blanco,Gasolina,4,Automática,1.5,Sedán,48871 km
+223,"249,000",Audi,A1,2013,Plateado,Gasolina,3,Automática,1.4,Hatchback,69455 km
+224,"230,000",Mazda,Mazda 6,2015,Rojo,Gasolina,5,Manual,2.0,Hatchback,155388 km
+225,"149,000",Dodge,Attitude,2016,Blanco,Gasolina,4,Automática,1.2,Sedán,54930 km
+226,"185,000",Mazda,3,2010,Gris,Gasolina,4,Automática,2.5,Sedán,85182 km
+227,"145,000",Honda,Pilot,2005,Blanco,Gasolina,5,Automática,3.5,SUV,200000 km
+228,"434,000",Ford,Transit,2017,Blanco,Gasolina,4,Automática,3.7,Furgoneta,74228 km
+229,"168,000",Mazda,Mazda 2,2014,Plateado,Gasolina,5,Manual,1.5,Hatchback,74311 km
+230,"199,000",Honda,Fit,2015,Rojo,Gasolina,5,Manual,1.5,Hatchback,95309 km
+231,"448,000",Honda,CR-V,2018,Rojo Cobrizo,Gasolina,5,Automática,2.4,SUV,66290 km
+232,"343,000",Chevrolet,Onix,2021,Plateado,Gasolina,4,Manual,1.0,Sedán,867 km
+233,"110,000",Chevrolet,Spark,2015,Blanco,Gasolina,4,Manual,1.2,Hatchback,84087 km
+234,"218,000",SEAT,Ibiza,2017,Negro,Gasolina,5,Manual,1.6,Hatchback,45385 km
+235,"205,000",Volkswagen,Jetta,2015,Plateado,Gasolina,4,Manual,2.0,Sedán,82270 km
+236,"209,000",Chevrolet,Sonic,2017,Rojo,Gasolina,4,Manual,1.6,Sedán,75950 km
+237,"659,000",Acura,TLX,2020,Blanco,Gasolina,4,Automática,3.5,Sedán,47427 km
+238,"189,000",Chevrolet,Sonic,2015,Rojo,Gasolina,4,Automática,1.6,Sedán,60645 km
+239,"329,000",Chevrolet,Onix,2021,Plateado,Gasolina,4,Automática,1.2,Sedán,31290 km
+240,"245,000",Chevrolet,Cavalier,2019,Azul marino,Gasolina,4,Manual,1.5,Sedán,42063 km
+241,"389,000",Volkswagen,Tiguan,2018,Blanco,Gasolina,5,Automática,1.4,SUV,52230 km
+242,"375,000",Chevrolet,Trax,2019,Negro,Gasolina,5,Automática,1.8,SUV,31271 km
+243,"220,000",Chevrolet,Spark,2018,Rojo,Gasolina,5,Automática,1.4,Hatchback,47564 km
+244,"354,500",Honda,BR-V,2019,Café,Gasolina,5,Automática,1.5,SUV,25952 km
+245,"235,000",Chevrolet,Aveo,2020,Plateado,Gasolina,4,Manual,1.6,Sedán,38707 km
+246,"239,000",Hyundai,Elantra,2016,Plateado,Gasolina,4,Automática,1.8,Sedán,157617 km
+247,"495,000",Kia,Sportage,2019,Azul,Gasolina,5,Automática,2.4,SUV,55000 km
+248,"264,000",Suzuki,Swift,2018,Blanco,Gasolina,5,Manual,1.2,Hatchback,70532 km
+249,"749,000",Chevrolet,Traverse,2020,Blanco,Gasolina,5,Automática,3.6,SUV,53171 km
+250,"439,000",Kia,Sportage,2019,Gris,Gasolina,5,Automática,2.0,SUV,55446 km
+251,"429,000",Mazda,3,2021,Gris,Gasolina,4,Automática,2.5,Sedán,17204 km
+252,"175,000",Nissan,March,2018,Blanco,Gasolina,5,Automática,1.6,Hatchback,69600 km
+253,"149,000",Chevrolet,Spark,2015,Rojo,Gasolina,5,Manual,1.4,Hatchback,78000 km
+254,"220,000",Chevrolet,Beat,2020,Azul,Gasolina,4,Manual,1.2,Sedán,83557 km
+255,"289,000",Chevrolet,Cavalier,2019,Azul,Gasolina,4,Automática,1.5,Sedán,108592 km
+256,"229,000",Volkswagen,Vento,2020,Blanco,Gasolina,4,Manual,1.6,Sedán,54195 km
+257,"289,000",Chevrolet,Onix,2021,Blanco,Gasolina,4,Manual,1.0,Sedán,5994 km
+258,"229,000",Chevrolet,Aveo,2020,Café,Gasolina,4,Automática,1.6,Sedán,75780 km
+259,"205,000",Renault,Duster,2017,Plateado,Gasolina,5,Manual,2.0,SUV,88537 km
+260,"245,000",Volkswagen,Vento,2020,Beige,Gasolina,4,Manual,1.6,Sedán,24265 km
+261,"389,000",Dodge,Grand Caravan,2019,Plateado,Gasolina,5,Automática,3.6,Van,65634 km
+262,"369,000",Buick,Encore,2019,Negro,Gasolina,5,Automática,1.4,SUV,89659 km
+263,"265,000",Chevrolet,Cavalier,2018,Negro,Gasolina,4,Automática,1.5,Sedán,110882 km
+264,"385,000",Hyundai,Creta,2019,Plateado,Gasolina,5,Automática,1.6,SUV,45251 km
+265,"235,000",Toyota,Yaris,2017,Azul,Gasolina,4,Automática,1.5,Sedán,62352 km
+266,"285,000",Nissan,Sentra,2017,Gris,Gasolina,4,Automática,1.8,Sedán,85812 km
+267,"189,000",Volkswagen,Gol,2018,Blanco,Gasolina,4,Manual,1.6,Sedán,79800 km
+268,"136,000",Volvo,S40,2007,Plateado,Gasolina,4,Automática,2.5,Sedán,98817 km
+269,"439,000",Chevrolet,Express,2017,Blanco,Gasolina,2,Automática,6.0,Furgoneta,37388 km
+270,"357,000",Mini,Cooper,2017,Azul,Gasolina,3,Automática,1.5,Hatchback,45000 km
+271,"228,000",Volkswagen,Vento,2018,Blanco,Gasolina,4,Automática,1.6,Sedán,50252 km
+272,"393,000",Toyota,Otros modelos,2019,Azul,Gasolina,5,Automática,2.0,SUV,48983 km
+273,"380,000",Ford,Ecosport,2020,Azul,Gasolina,5,Automática,2.0,SUV,18035 km
+274,"326,000",Volkswagen,Jetta,2018,Azul,Gasolina,4,Automática,2.5,Sedán,74278 km
+275,"368,000",Honda,HR-V,2018,Azul marino,Gasolina,5,Automática,1.8,SUV,27608 km
+276,"254,000",Chevrolet,Trax,2016,Naranja,Gasolina,5,Automática,1.8,SUV,109514 km
+277,"424,000",Toyota,Tacoma,2014,Blanco,Gasolina,4,Automática,4.0,Pick-Up,113144 km
+278,"290,000",Kia,Sportage,2016,Negro,Gasolina,5,Automática,2.0,SUV,86919 km
+279,"340,000",Volkswagen,CC,2017,Negro,Gasolina,4,Automática,2.0,Sedán,46210 km
+280,"236,000",Chevrolet,Trax,2016,Plateado,Gasolina,5,Manual,1.8,SUV,29625 km
+281,"430,000",BMW,Serie 3,2017,Plateado,Gasolina,4,Automática,2.0,Sedán,48334 km
+282,"635,000",Ford,Explorer,2018,Plateado,Gasolina,5,Manual,4.0,SUV,42526 km
+283,"263,000",Renault,Duster,2018,Rojo,Gasolina,5,Manual,2.0,SUV,54570 km
+284,"486,000",Honda,Accord,2018,Gris,Gasolina,4,Manual,2.0,Coupé,28087 km
+285,"340,000",BMW,X3,2014,Azul,Gasolina,5,Automática,2.0,SUV,94382 km
+286,"297,000",Toyota,Yaris,2019,Rojo,Gasolina,4,Automática,1.5,Sedán,31421 km
+287,"346,900",Chevrolet,Onix,2022,Blanco,Gasolina,4,Manual,1.0,Sedán,50 km
+288,"563,999",Cadillac,XT5,2018,Negro,Gasolina,5,Automática,3.7,SUV,89560 km
+289,"365,000",Hyundai,Creta,2020,Gris,Gasolina,5,Automática,1.6,SUV,9369 km
+290,"356,000",Chevrolet,Onix,2022,Blanco,Gasolina,4,Manual,1.0,Sedán,50 km
+291,"346,900",Chevrolet,Onix,2022,Blanco,Gasolina,4,Manual,1.0,Sedán,50 km
+292,"339,000",Volkswagen,Golf,2017,Plateado,Gasolina,5,Automática,1.4,Hatchback,74234 km
+293,"198,000",Nissan,Versa,2017,Plateado,Gasolina,4,Automática,1.6,Sedán,55833 km
+294,"346,000",Chevrolet,Onix,2022,Plateado,Gasolina,4,Manual,1.0,Sedán,50 km
+295,"200,000",Renault,Logan,2019,Rojo,Gasolina,4,Automática,1.6,Sedán,76566 km
+296,"459,000",Toyota,Camry,2019,Plateado,Gasolina,4,Automática,2.5,Sedán,35367 km
+297,"470,000",Hyundai,Tucson,2019,Plateado,Gasolina,5,Automática,2.4,SUV,16534 km
+298,"455,000",BMW,Serie 3,2017,Plateado,Gasolina,4,Automática,2.0,Sedán,63290 km
+299,"179,000",Chevrolet,Sonic,2016,Negro,Gasolina,4,Manual,1.6,Sedán,78764 km
+300,"223,000",Chevrolet,Aveo,2020,Azul,Gasolina,4,Manual,1.6,Sedán,22106 km
+301,"350,000",Chevrolet,Cavalier,2022,Blanco,Gasolina,4,Automática,1.3,Sedán,50 km
+302,"480,000",RAM,Promaster,2019,Blanco,Gasolina,4,Automática,3.7,Van,55666 km
+303,"480,000",RAM,Promaster,2019,Blanco,Gasolina,4,Automática,3.7,Van,44743 km
+304,"659,000",Honda,CR-V,2020,Gris oscuro,Gasolina,5,Automática,1.5,SUV,3465 km
+305,"485,000",Honda,CR-V,2017,Negro,Gasolina,5,Automática,1.5,SUV,81764 km
+306,"259,000",SEAT,Toledo,2016,Azul,Gasolina,4,Manual,1.2,Sedán,84991 km
+307,"219,000",Volkswagen,Vento,2015,Beige,Gasolina,4,Automática,1.6,Sedán,32945 km
+308,"180,000",Nissan,March,2018,Gris,Gasolina,5,Manual,1.6,Hatchback,53005 km
+309,"390,000",RAM,Promaster,2017,Blanco,Gasolina,4,Automática,3.7,Van,72845 km
+310,"414,000",Acura,MDX,2016,Plateado,Gasolina,5,Automática,3.5,SUV,94308 km
+311,"311,000",Suzuki,Ciaz,2021,Plateado,Gasolina,4,Automática,1.4,Sedán,11000 km
+312,"730,000",Dodge,Durango,2017,Blanco,Gasolina,5,Automática,5.7,SUV,44026 km
+313,"495,000",Mini,Cooper S,2020,Rojo,Gasolina,3,Manual,2.0,Hatchback,51990 km
+314,"355,000",Ford,Fusion,2017,Rojo,Gasolina,4,Automática,2.5,Sedán,57365 km
+315,"535,000",RAM,Promaster,2020,Blanco,Gasolina,4,Automática,3.7,Van,43704 km
+316,"535,000",RAM,Promaster,2020,Blanco,Gasolina,4,Automática,3.7,Van,40185 km
+317,"535,000",RAM,Promaster,2020,Blanco,Gasolina,4,Automática,3.7,Van,40213 km
+318,"393,000",Toyota,Otros modelos,2019,Azul,Gasolina,5,Automática,2.0,SUV,48983 km
+319,"380,000",Ford,Ecosport,2020,Azul,Gasolina,5,Automática,2.0,SUV,18035 km
+320,"368,000",Honda,HR-V,2018,Azul marino,Gasolina,5,Automática,1.8,SUV,27608 km
+321,"254,000",Chevrolet,Trax,2016,Naranja,Gasolina,5,Automática,1.8,SUV,109514 km
+322,"290,000",Kia,Sportage,2016,Negro,Gasolina,5,Automática,2.0,SUV,86919 km
+323,"236,000",Chevrolet,Trax,2016,Plateado,Gasolina,5,Manual,1.8,SUV,29625 km
+324,"635,000",Ford,Explorer,2018,Plateado,Gasolina,5,Manual,4.0,SUV,42526 km
+325,"263,000",Renault,Duster,2018,Rojo,Gasolina,5,Manual,2.0,SUV,54570 km
+326,"340,000",BMW,X3,2014,Azul,Gasolina,5,Automática,2.0,SUV,94382 km
+327,"563,999",Cadillac,XT5,2018,Negro,Gasolina,5,Automática,3.7,SUV,89560 km
+328,"365,000",Hyundai,Creta,2020,Gris,Gasolina,5,Automática,1.6,SUV,9369 km
+329,"470,000",Hyundai,Tucson,2019,Plateado,Gasolina,5,Automática,2.4,SUV,16534 km
+330,"659,000",Honda,CR-V,2020,Gris oscuro,Gasolina,5,Automática,1.5,SUV,3465 km
+331,"485,000",Honda,CR-V,2017,Negro,Gasolina,5,Automática,1.5,SUV,81764 km
+332,"221,400",Ford,Escape,2014,Blanco,Gasolina,5,Automática,2.5,SUV,85324 km
+333,"253,000",Ford,Edge,2013,Gris,Gasolina,5,Automática,3.5,SUV,98637 km
+334,"357,000",Honda,BR-V,2018,Blanco,Gasolina,5,Automática,1.5,SUV,21227 km
+335,"395,000",Mazda,CX-3,2019,Negro,Gasolina,5,Automática,2.0,SUV,30317 km
+336,"214,000",Volkswagen,Tiguan,2011,Plateado,Gasolina,5,Automática,2.0,SUV,99846 km
+337,"359,000",Honda,HR-V,2018,Rojo,Gasolina,5,Automática,1.8,SUV,45014 km
+338,"785,000",Honda,Pilot,2020,Blanco,Gasolina,5,Automática,3.5,SUV,50812 km
+339,"635,000",Chevrolet,Suburban,2016,Plateado,Gasolina,5,Automática,5.3,SUV,51517 km
+340,"685,000",Honda,CR-V,2021,Gris oscuro,Gasolina,5,Automática,1.5,SUV,11348 km
+341,"246,000",Subaru,Forester,2015,Negro,Gasolina,5,Automática,2.5,SUV,107652 km
+342,"354,000",Nissan,Kicks,2019,Plateado,Gasolina,5,Automática,1.6,SUV,38460 km
+343,"430,000",Hyundai,Creta,2020,Blanco,Gasolina,5,Automática,1.6,SUV,13538 km
+344,"408,000",Kia,Sorento,2018,Dorado,Gasolina,5,Automática,2.4,SUV,68737 km
+345,"279,000",Kia,Soul,2019,Rojo,Gasolina,5,Manual,1.6,SUV,28014 km
+346,"377,000",Nissan,Kicks,2020,Rosa claro,Gasolina,5,Automática,1.6,SUV,16114 km
+347,"280,000",Renault,Captur,2019,Rojo,Gasolina,5,Automática,2.0,SUV,59806 km
+348,"225,000",Renault,Duster,2017,Negro,Gasolina,5,Manual,2.0,SUV,92000 km
+349,"295,000",Honda,HR-V,2016,Azul,Gasolina,5,Automática,1.8,SUV,99504 km
+350,"316,000",Honda,HR-V,2017,Plateado,Gasolina,5,Automática,1.8,SUV,83269 km
+351,"278,000",Chevrolet,Trax,2018,Plateado,Gasolina,5,Manual,1.8,SUV,47385 km
+352,"354,000",Chevrolet,Trax,2019,Plateado,Gasolina,5,Automática,1.8,SUV,42405 km
+353,"145,000",Honda,Pilot,2005,Blanco,Gasolina,5,Automática,3.5,SUV,200000 km
+354,"448,000",Honda,CR-V,2018,Rojo Cobrizo,Gasolina,5,Automática,2.4,SUV,66290 km
+355,"391,000",Kia,Sportage,2017,Blanco,Gasolina,5,Automática,2.0,SUV,56659 km
+356,"1,450,000",Ford,Expedition,2021,Negro,Gasolina,5,Automática,3.5,SUV,3882 km
+357,"339,000",BMW,X3,2014,Gris,Gasolina,5,Automática,2.0,SUV,109568 km
+358,"320,000",Nissan,X-Trail,2017,Azul,Gasolina,5,Automática,2.5,SUV,129941 km
+359,"439,000",Chevrolet,Tracker,2021,Rojo,Gasolina,5,Automática,1.2,SUV,24660 km
+360,"315,000",Chevrolet,Trax,2018,Café,Gasolina,5,Automática,1.8,SUV,20481 km
+361,"395,000",Honda,CR-V,2016,Blanco,Gasolina,5,Automática,2.4,SUV,77000 km
+362,"555,000",Ford,Expedition,2017,Plateado,Gasolina,5,Automática,3.5,SUV,100035 km
+363,"326,000",Nissan,X-Trail,2016,Gris oscuro,Gasolina,5,Automática,2.5,SUV,57069 km
+364,"389,000",Volkswagen,Tiguan,2018,Blanco,Gasolina,5,Automática,1.4,SUV,52230 km
+365,"430,000",Acura,RDX,2018,Blanco,Gasolina,5,Automática,3.5,SUV,53004 km
+366,"228,000",Volkswagen,Vento,2018,Blanco,Gasolina,4,Automática,1.6,Sedán,50252 km
+367,"326,000",Volkswagen,Jetta,2018,Azul,Gasolina,4,Automática,2.5,Sedán,74278 km
+368,"340,000",Volkswagen,CC,2017,Negro,Gasolina,4,Automática,2.0,Sedán,46210 km
+369,"430,000",BMW,Serie 3,2017,Plateado,Gasolina,4,Automática,2.0,Sedán,48334 km
+370,"297,000",Toyota,Yaris,2019,Rojo,Gasolina,4,Automática,1.5,Sedán,31421 km
+371,"346,900",Chevrolet,Onix,2022,Blanco,Gasolina,4,Manual,1.0,Sedán,50 km
+372,"356,000",Chevrolet,Onix,2022,Blanco,Gasolina,4,Manual,1.0,Sedán,50 km
+373,"346,900",Chevrolet,Onix,2022,Blanco,Gasolina,4,Manual,1.0,Sedán,50 km
+374,"198,000",Nissan,Versa,2017,Plateado,Gasolina,4,Automática,1.6,Sedán,55833 km
+375,"346,000",Chevrolet,Onix,2022,Plateado,Gasolina,4,Manual,1.0,Sedán,50 km
+376,"200,000",Renault,Logan,2019,Rojo,Gasolina,4,Automática,1.6,Sedán,76566 km
+377,"459,000",Toyota,Camry,2019,Plateado,Gasolina,4,Automática,2.5,Sedán,35367 km
+378,"455,000",BMW,Serie 3,2017,Plateado,Gasolina,4,Automática,2.0,Sedán,63290 km
+379,"179,000",Chevrolet,Sonic,2016,Negro,Gasolina,4,Manual,1.6,Sedán,78764 km
+380,"223,000",Chevrolet,Aveo,2020,Azul,Gasolina,4,Manual,1.6,Sedán,22106 km
+381,"350,000",Chevrolet,Cavalier,2022,Blanco,Gasolina,4,Automática,1.3,Sedán,50 km
+382,"259,000",SEAT,Toledo,2016,Azul,Gasolina,4,Manual,1.2,Sedán,84991 km
+383,"219,000",Volkswagen,Vento,2015,Beige,Gasolina,4,Automática,1.6,Sedán,32945 km
+384,"714,000",Alfa Romeo,Giulia,2017,Negro,Gasolina,4,Automática,2.0,Sedán,8335 km
+385,"258,000",Toyota,Avanza,2017,Negro,Gasolina,4,Automática,1.5,Sedán,76819 km
+386,"259,000",Chevrolet,Cavalier,2018,Blanco,Gasolina,4,Automática,1.5,Sedán,48871 km
+387,"350,000",Honda,Civic,2018,Negro,Gasolina,4,Automática,1.5,Sedán,130930 km
+388,"219,000",Chevrolet,Beat,2020,Blanco,Gasolina,4,Manual,1.2,Sedán,32000 km
+389,"268,000",Nissan,Altima,2016,Plateado,Gasolina,4,Automática,3.5,Sedán,58052 km
+390,"188,000",Toyota,Camry,2012,Rojo,Gasolina,4,Automática,2.5,Sedán,108118 km
+391,"454,900",Hyundai,Otros modelos,2019,Azul,Híbrido,5,Automática,1.6,Sedán,45200 km
+392,"213,000",Nissan,Versa,2018,Azul,Gasolina,4,Manual,1.6,Sedán,54769 km
+393,"569,000",Honda,Ridgeline,2019,Rojo,Híbrido/Gasolina,4,Automática,1.5,Sedán,19318 km
+394,"448,000",Toyota,Corolla,2021,Rojo,Híbrido,4,Automática,1.8,Sedán,51342 km
+395,"411,999",Honda,Civic,2020,Azul,Gasolina,4,Automática,1.5,Sedán,45868 km
+396,"425,000",Mercedes-Benz,Clase CLA,2016,Plateado,Gasolina,4,Automática,1.6,Sedán,50253 km
+397,"149,000",Dodge,Attitude,2016,Blanco,Gasolina,4,Automática,1.2,Sedán,54930 km
+398,"355,000",Toyota,Prius,2017,Rojo,Híbrido,5,Automática,1.8,Sedán,78320 km
+399,"208,000",Honda,City,2016,Plateado,Gasolina,4,Manual,1.5,Sedán,54825 km
+400,"278,000",Nissan,Sentra,2019,Rojo,Gasolina,4,Automática,1.8,Sedán,29595 km
+401,"590,000",Ford,Fusion,2020,Azul petróleo,Gasolina,4,Automática,2.5,Sedán,15013 km
+402,"185,000",Mazda,3,2010,Gris,Gasolina,4,Automática,2.5,Sedán,85182 km
+403,"416,000",Cadillac,ATS,2016,Negro,Gasolina,4,Automática,2.0,Sedán,39079 km
+404,"127,000",Nissan,Tiida,2013,Plateado,Gasolina,4,Manual,1.8,Sedán,120782 km
+405,"239,000",Nissan,Sentra,2017,Azul,Gasolina,4,Automática,1.8,Sedán,107646 km
+406,"445,000",Toyota,Corolla,2020,Rojo,Híbrido,4,Automática,1.8,Sedán,60796 km
+407,"290,000",Kia,Forte,2018,Plateado,Gasolina,4,Manual,2.0,Sedán,75550 km
+408,"205,000",Chevrolet,Sonic,2017,Rojo,Gasolina,4,Manual,1.6,Sedán,58155 km
+409,"220,000",Volkswagen,Jetta,2015,Azul acero,Gasolina,4,Manual,2.5,Sedán,127197 km
+410,"343,000",Chevrolet,Onix,2021,Plateado,Gasolina,4,Manual,1.0,Sedán,867 km
+411,"233,000",Volkswagen,Jetta,2015,Gris,Gasolina,4,Automática,2.0,Sedán,95769 km
+412,"659,000",Acura,TLX,2020,Blanco,Gasolina,4,Automática,3.5,Sedán,47427 km
+413,"213,000",Dodge,Attitude,2018,Blanco,Gasolina,4,Manual,1.2,Sedán,54057 km
+414,"357,000",Mini,Cooper,2017,Azul,Gasolina,3,Automática,1.5,Hatchback,45000 km
+415,"339,000",Volkswagen,Golf,2017,Plateado,Gasolina,5,Automática,1.4,Hatchback,74234 km
+416,"210,000",Ford,Fiesta,2016,Negro,Gasolina,4,Automática,1.6,Hatchback,102406 km
+417,"249,000",Audi,A1,2013,Plateado,Gasolina,3,Automática,1.4,Hatchback,69455 km
+418,"220,000",Toyota,Yaris,2016,Rojo,Gasolina,5,Automática,1.5,Hatchback,63714 km
+419,"350,000",Mazda,3,2020,Azul acero,Gasolina,5,Automática,2.5,Hatchback,27604 km
+420,"413,000",Mini,Cooper,2019,Azul,Gasolina,3,Automática,1.5,Hatchback,33004 km
+421,"166,900",Chevrolet,Spark,2017,Negro,Gasolina,5,Manual,1.4,Hatchback,39354 km
+422,"241,000",Honda,Fit,2017,Azul,Gasolina,5,Automática,1.5,Hatchback,93385 km
+423,"230,000",Mazda,Mazda 6,2015,Rojo,Gasolina,5,Manual,2.0,Hatchback,155388 km
+424,"260,000",SEAT,Ibiza,2017,Blanco,Gasolina,5,Manual,1.6,Hatchback,78076 km
+425,"325,000",Toyota,Prius,2019,Verde,Gasolina,4,Automática,4,Hatchback,79650 km
+426,"400,000",Alfa Romeo,Mito,2019,Azul,Gasolina,3,Manual,1.4,Hatchback,16936 km
+427,"235,000",Kia,Rio,2017,Negro,Gasolina,5,Manual,1.6,Hatchback,64251 km
+428,"189,900",Chevrolet,Beat,2019,Blanco,Gasolina,5,Manual,1.2,Hatchback,44097 km
+429,"475,000",Audi,A1,2021,Negro,Gasolina,5,Automática,1.0,Hatchback,5955 km
+430,"199,000",Mitsubishi,Mirage,2019,Azul,Gasolina,4,Manual,1.2,Hatchback,75798 km
+431,"206,000",Mitsubishi,Mirage,2019,Rojo,Gasolina,5,Manual,1.2,Hatchback,29873 km
+432,"260,900",Nissan,March,2021,Blanco,Gasolina,5,Manual,1.6,Hatchback,5200 km
+433,"215,000",Nissan,March,2020,Plateado,Gasolina,5,Manual,1.6,Hatchback,30832 km
+434,"460,000",Mini,Cooper S,2019,Negro,Gasolina,3,Automática,2.0,Hatchback,26459 km
+435,"188,900",Ford,Fiesta,2016,Blanco,Gasolina,5,Automática,1.6,Hatchback,81500 km
+436,"168,000",Mazda,Mazda 2,2014,Plateado,Gasolina,5,Manual,1.5,Hatchback,74311 km
+437,"199,000",Honda,Fit,2015,Rojo,Gasolina,5,Manual,1.5,Hatchback,95309 km
+438,"235,000",Mazda,3,2015,Rojo,Gasolina,5,Manual,2.0,Hatchback,121600 km
+439,"150,000",Chevrolet,Spark,2017,Gris,Gasolina,5,Manual,1.4,Hatchback,71435 km
+440,"255,000",Toyota,Yaris,2018,Azul,Gasolina,5,Manual,1.5,Hatchback,62415 km
+441,"275,000",Ford,Focus,2017,Plateado,Gasolina,5,Automática,2.0,Hatchback,69569 km
+442,"110,000",Chevrolet,Spark,2015,Blanco,Gasolina,4,Manual,1.2,Hatchback,84087 km
+443,"198,000",Suzuki,Swift,2014,Rojo,Gasolina,5,Manual,1.4,Hatchback,85250 km
+444,"218,000",SEAT,Ibiza,2017,Negro,Gasolina,5,Manual,1.6,Hatchback,45385 km
+445,"225,000",Volkswagen,Polo,2019,Blanco,Gasolina,5,Automática,1.6,Hatchback,70536 km
+446,"265,000",Kia,Rio,2018,Negro,Gasolina,5,Automática,1.6,Hatchback,50986 km
+447,"225,000",Nissan,March,2018,Azul,Gasolina,5,Automática,1.6,Hatchback,30416 km
+448,"220,000",Suzuki,Ignis,2019,Blanco,Gasolina,5,Manual,1.2,Hatchback,84563 km
+449,"268,000",Chevrolet,Spark,2020,Negro,Gasolina,5,Automática,1.4,Hatchback,25901 km
+450,"244,000",Chevrolet,Spark,2020,Gris oscuro,Gasolina,5,Manual,1.4,Hatchback,20850 km
+451,"220,000",Chevrolet,Spark,2018,Rojo,Gasolina,5,Automática,1.4,Hatchback,47564 km
+452,"127,000",Chevrolet,Sonic,2013,Rojo,Gasolina,4,Manual,1.6,Hatchback,91912 km
+453,"333,000",Mazda,Mazda 6,2018,Blanco,Gasolina,5,Automática,2.5,Hatchback,51476 km
+454,"290,000",Suzuki,Ignis,2020,Rojo,Gasolina,5,Automática,1.2,Hatchback,21076 km
+455,"337,000",Audi,A1,2016,Gris,Gasolina,3,Automática,1.8,Hatchback,71000 km
+456,"339,000",Mazda,Mazda 6,2018,Rojo,Gasolina,5,Automática,2.5,Hatchback,65778 km
+457,"264,000",Suzuki,Swift,2018,Blanco,Gasolina,5,Manual,1.2,Hatchback,70532 km
+458,"209,000",Chevrolet,Spark,2020,Naranja,Gasolina,5,Manual,1.4,Hatchback,44641 km
+459,"185,000",Chevrolet,Spark,2017,Negro,Gasolina,5,Manual,1.2,Hatchback,67233 km
+460,"172,800",Ford,Figo,2016,Amarillo,Gasolina,5,Manual,1.5,Hatchback,61600 km
+461,"210,000",Chevrolet,Sonic,2016,Plateado,Gasolina,5,Automática,1.6,Hatchback,76000 km
+462,"424,000",Toyota,Tacoma,2014,Blanco,Gasolina,4,Automática,4.0,Pick-Up,113144 km
+463,"580,000",Chevrolet,Cheyenne,2014,Blanco,Gasolina,4,Automática,5.3,Pick-Up,98588 km
+464,"220,000",Volkswagen,Saveiro,2017,Blanco,Gasolina,2,Manual,1.6,Pick-Up,102193 km
+465,"330,000",Renault,Oroch,2020,Rojo,Gasolina,4,Manual,2.0,Pick-Up,6538 km
+466,"365,000",RAM,Promaster,2016,Blanco,Gasolina,4,Automática,3.6,Pick-Up,63389 km
+467,"392,000",Chevrolet,Silverado,2016,Plateado,Gasolina,2,Automática,4.3,Pick-Up,132000 km
+468,"425,000",Nissan,NP300,2020,Plateado,Gasolina,4,Manual,2.5,Pick-Up,55000 km
+469,"580,000",Nissan,Frontier,2020,Gris,Gasolina,4,Manual,2.4,Pick-Up,31244 km
+470,"479,000",Ford,Ranger,2019,Blanco,Gasolina,4,Manual,2.5,Pick-Up,80518 km
+471,"815,000",Ford,Lobo,2018,Negro,Gasolina,4,Automática,3.5,Pick-Up,87700 km
+472,"370,000",Chevrolet,Cheyenne,2013,Plateado,Gasolina,4,Automática,5.3,Pick-Up,180979 km
+473,"649,000",Toyota,Tundra,2016,Blanco,Gasolina,4,Automática,5.7,Pick-Up,85592 km
+474,"549,000",Dodge,Ram 1500,2018,Blanco,Gasolina,5,Automática,3.6,Pick-Up,59978 km
+475,"499,000",Chevrolet,Silverado,2017,Plateado,Gasolina,4,Automática,5.3,Pick-Up,104199 km
+476,"810,000",Chevrolet,Cheyenne,2018,Negro,Gasolina,4,Automática,6.2,Pick-Up,54173 km
+477,"669,900",Nissan,NP300 Frontier,2020,Plateado,Diésel,2,Automática,2.5,Pick-Up,56000 km
+478,"582,000",GMC,Sierra,2017,Blanco,Gasolina,2,Automática,5.4,Pick-Up,115248 km
+479,"389,000",Chevrolet,Cheyenne,2010,Plateado,Gasolina,4,Automática,5.3,Pick-Up,120000 km
+480,"715,000",Chevrolet,Tahoe,2016,Blanco,Gasolina,5,Automática,5.3,Pick-Up,52500 km
+481,"413,000",Nissan,NP300,2020,Plateado,Gasolina,4,Manual,2.5,Pick-Up,14009 km
+482,"360,000",Renault,Oroch,2020,Rojo,Gasolina,4,Automática,2.0,Pick-Up,57834 km
+483,"489,000",Ford,F-150,2018,Blanco,Gasolina,2,Automática,3.5,Pick-Up,27000 km
+484,"479,000",Chevrolet,Silverado,2018,Blanco,Gasolina,4,Automática,5.3,Pick-Up,62300 km
+485,"675,000",Chevrolet,Silverado,2020,Blanco,Gasolina,2,Automática,4.3,Pick-Up,46299 km
+486,"332,000",Ford,F-150,2014,Blanco,Gasolina,2,Automática,3.7,Pick-Up,78812 km
+487,"565,000",Nissan,NP300 Frontier,2020,Blanco,Gasolina,4,Manual,2.5,Pick-Up,14172 km
+488,"1,050,000",Ford,F-250,2020,Blanco,Diésel,4,Automática,6.7,Pick-Up,80000 km
+489,"410,000",Dodge,Ram 2500,2016,Blanco,Gasolina,4,Automática,5.7 HEMI,Pick-Up,85714 km
+490,"459,000",Toyota,Hilux,2020,Plateado,Gasolina,4,Manual,4 cilindros - 5 velocidades - 4 válvulas,Pick-Up,32475 km
+491,"921,900",Chevrolet,Silverado,2022,Azul,Gasolina,4,Automática,2.7 L,Pick-Up,0 km
+492,"555,000",Nissan,NP300 Frontier,2020,Gris,Gasolina,4,Manual,4 cilindros - 6 velocidades - 166 hp - 4 válvulas,Pick-Up,58996 km
+493,"1,889,000",Chevrolet,Cheyenne,2020,Blanco,Gasolina,4,Automática,5.4,Pick-Up,40000 km
+494,"519,900",Ford,Ranger,2019,Plateado,Gasolina,4,Manual,2.5,Pick-Up,40000 km
+495,"448,500",Dodge,Ram 2500,2017,Blanco,Gasolina,4,Automática,5.7,Pick-Up,65000 km
+496,"1,889,000",Volkswagen,AMAROK V6 BLINDADA NIVEL 4 2012,2021,Negro,Diésel,4,Automática,V6,Pick-Up,10000 km
+497,"1,320,000",RAM,Ram 1500,2020,Gris,Híbrido/Gasolina,4,Automática,5.7,Pick-Up,7000 km
+498,"419,000",Toyota,Hilux,2019,Blanco,Gasolina,4,Manual,4 cilindros - SPPEDS-6 velocidades - 166 hp - VALVES-4 válvulas,Pick-Up,137671 km
+499,"698,000",Toyota,Tacoma,2020,Plateado,Gasolina,4,Automática,3.5,Pick-Up,30000 km
+500,"479,000",Toyota,Hilux,2021,Blanco,Gasolina,4,Manual,4 cilindros - 5 velocidades - 166 hp - 4 válvulas,Pick-Up,21304 km
+501,"382,000",RAM,Ram 2500,2017,Rojo,Gasolina,4,Automática,SLT V8,Pick-Up,105517 km
+502,"382,000",Dodge,Ram 2500,2017,Rojo,Gasolina,4,Automática,SLT V8,Pick-Up,105517 km
+503,"382,000",Dodge,Ram 2500,2017,Rojo,Gasolina,4,Automática,SLT V8,Pick-Up,105517 km
+504,"439,000",Toyota,Hilux,2020,Plateado,Gasolina,4,Manual,4 cilindros - 5 velocidades - 4 válvulas,Pick-Up,50851 km
+505,"529,000",Nissan,NP300 Frontier,2020,Blanco,Gasolina,4,Manual,4 cilindros - 6 velocidades - 4 válvulas,Pick-Up,31900 km
+506,"279,000",Mitsubishi,L200,2015,Blanco,Diésel,4,Manual,4 cilindros - SPPEDS-5 velocidades - VALVES-0 válvulas,Pick-Up,91200 km
+507,"259,900",Volkswagen,Saveiro,2020,Blanco,Gasolina,2,Manual,1.6,Pick-Up,83591 km
+508,"385,000",Volkswagen,Amarok,2017,Blanco,Diésel,4,Manual,2.0,Pick-Up,48840 km
+509,"359,000",Nissan,NP300 Frontier,2017,Blanco,Gasolina,4,Manual,4 cilindros - 6 velocidades - 4 válvulas,Pick-Up,90000 km
+510,"3,450,000",Lamborghini,Gallardo,2012,Amarillo,Gasolina,3,Semiautomática,Coupé,9395 km,
+511,"486,000",Honda,Accord,2018,Gris,Gasolina,4,Manual,2.0,Coupé,28087 km
+512,"236,000",Honda,Civic,2014,Negro,Gasolina,2,Manual,1.8,Coupé,72769 km
+513,"793,000",Mercedes-Benz,Clase GLE,2017,Negro,Gasolina,4,Automática,3.0,Coupé,110789 km
+514,"260,000",Honda,Accord,2015,Negro,Gasolina,4,Automática,3.5,Coupé,109783 km
+515,"338,000",Volkswagen,Golf,2016,Plateado,Gasolina,5,Automática,2.0,Coupé,83185 km
+516,"225,000",Volkswagen,Beetle,2014,Rojo,Gasolina,2,Automática,2.5,Coupé,89043 km
+517,"780,000",Dodge,Challenger,2020,Rojo,Gasolina,2,Automática,3.6,Coupé,175 km
+518,"224,000",Honda,Civic,2013,Rojo,Gasolina,4,Automática,1.5,Coupé,65133 km
+519,"570,200",Audi,TT,2016,Negro,Gasolina,2,Automática,1.8,Coupé,57976 km
+520,"209,000",Mazda,3,2013,Gris,Gasolina,4,Automática,2.0,Coupé,81127 km
+521,"547,000",Honda,Accord,2019,Gris,Gasolina,4,Manual,2.0,Coupé,30000 km
+522,"480,000",BMW,Serie 2,2015,Blanco,Gasolina,2,Automática,3.0,Coupé,80325 km
+523,"370,000",Honda,Civic,2018,Rojo Cobrizo,Gasolina,2,Automática,1.5,Coupé,87622 km
+524,"325,000",BMW,Serie 1,2013,Gris,Gasolina,2,Automática,3.0,Coupé,117015 km
+525,"580,000",BMW,Serie 4,2018,Plateado,Gasolina,2,Automática,2.0,Coupé,82622 km
+526,"6,300,000",Lamborghini,Huracán,2017,Naranja claro,Gasolina,2,Automática,5.2,Coupé,7500 km
+527,"659,000",Volkswagen,Golf,2021,Rojo,Gasolina,5,Automática,2.0,Coupé,12000 km
+528,"660,000",Audi,A7,2017,Negro,Gasolina,2,Automática,2.0,Coupé,102312 km
+529,"285,000",Volkswagen,Beetle,2017,Blanco,Gasolina,3,Manual,2.5,Coupé,49390 km
+530,"779,900",Ford,Mustang,2020,Rojo,Gasolina,2,Automática,2.3,Coupé,7984 km
+531,"269,900",Volkswagen,Golf GTI,2012,Blanco,Gasolina,3,Automática,2.0,Coupé,102843 km
+532,"270,000",Mercedes-Benz,Clase C,2013,Gris,Gasolina,2,Automática,4 cilindros - 7 velocidades - 201 hp - 4 válvulas,Coupé,68340 km
+533,"489,000",BMW,Serie 4,2016,Gris,Gasolina,2,Automática,2.0,Coupé,67000 km
+534,"589,900",Dodge,Challenger,2018,Rojo,Gasolina,2,Automática,3.6,Coupé,60000 km
+535,"529,900",Dodge,Challenger,2016,Rojo,Gasolina,2,Automática,3.6,Coupé,47000 km
+536,"1,395,000",Audi,Serie RS,2019,Rojo,Gasolina,2,Automática,6 cilindros - SPPEDS-6 velocidades - VALVES-0 válvulas,Coupé,12000 km
+537,"3,175,000",Lamborghini,Gallardo,2012,Azul,Gasolina,2,Automática,V10 5.2l,Coupé,32790 km
+538,"1,625,000",BMW,X6,2021,Gasolina,5,Automática,Coupé,45000 km,,
+539,"775,000",Mercedes-Benz,Clase GLC,2018,Negro,Gasolina,5,Automática,2.0,Coupé,66000 km
+540,"697,900",BMW,Serie 2,2019,Gasolina,2,Automática,3.0,Coupé,21000 km,
+541,"579,000",BMW,Serie 2,2018,Blanco,Gasolina,2,Automática,4 cilindros - 8 velocidades - 4 válvulas,Coupé,46000 km
+542,"409,000",Toyota,Highlander,2016,Gris,Gasolina,5,Automática,6 cilindros - 6 velocidades - 4 válvulas,Coupé,132924 km
+543,"380,000",BMW,Serie 4,2016,Gris,Gasolina,2,Automática,4 cilindros - 8 velocidades - 181 hp - 4 válvulas,Coupé,82000 km
+544,"395,000",Volkswagen,Golf GTI,2016,Plateado,Gasolina,5,Automática,2.0,Coupé,55461 km
+545,"975,000",BMW,Serie 4,2021,Negro,Gasolina,2,Automática,L4 TURBO,Coupé,8000 km
+546,"1,309,400",Chevrolet,Camaro,2022,Blanco,Gasolina,2,Automática,6.2L,Coupé,10 km
+547,"1,054,900",Ford,Mustang,2021,Gris,Gasolina,2,Automática,5.0,Coupé,700 km
+548,"549,900",Ford,Focus,2016,Blanco,Gasolina,5,Manual,2.3,Coupé,48000 km
+549,"525,000",Nissan,Altima,2020,Blanco,Gasolina,4,Automática,2.5,Coupé,28980 km
+550,"149,900",Honda,Accord,2007,Azul,Gasolina,4,Manual,2.4,Coupé,95000 km
+551,"579,900",Chevrolet,Camaro,2018,Blanco,Gasolina,2,Automática,3.6,Coupé,28000 km
+552,"619,999",Chevrolet,Camaro,2018,Rojo,Gasolina,2,Automática,3.6,Coupé,26400 km
+553,"1,589,000",Porsche,Cayman GT4 FULL,2016,Blanco,Gasolina,2,Manual,V6,Coupé,25000 km
+554,"499,900",Chevrolet,Camaro,2017,Plateado,Gasolina,2,Automática,3.7,Coupé,40000 km
+555,"1,139,900",BMW,X6 M,2017,Azul,Gasolina,5,Automática,V8 4.4 575 HP,Coupé,38000 km
+556,"600,000",Mini,Cooper,2022,Verde,Gasolina,3,Automática,3 cilindros - 7 velocidades - 4 válvulas,Coupé,2248 km
+557,"329,000",Ford,Focus,2016,Rojo,Gasolina,5,Manual,2.0,Coupé,106000 km
+558,"219,000",Chevrolet,Beat,2020,Blanco,Gasolina,4,Manual,1.2,Sedán,32000 km
+559,"395,000",Mazda,CX-3,2019,Negro,Gasolina,5,Automática,2.0,SUV,30317 km
+560,"454,900",Hyundai,Otros modelos,2019,Azul,Híbrido,5,Automática,1.6,Sedán,45200 km
+561,"249,000",Audi,A1,2013,Plateado,Gasolina,3,Automática,1.4,Hatchback,69455 km
+562,"220,000",Toyota,Yaris,2016,Rojo,Gasolina,5,Automática,1.5,Hatchback,63714 km
+563,"236,000",Honda,Civic,2014,Negro,Gasolina,2,Manual,1.8,Coupé,72769 km
+564,"188,000",Toyota,Camry,2012,Rojo,Gasolina,4,Automática,2.5,Sedán,108118 km
+565,"569,000",Honda,Ridgeline,2019,Rojo,Híbrido/Gasolina,4,Automática,1.5,Sedán,19318 km
+566,"359,000",Honda,HR-V,2018,Rojo,Gasolina,5,Automática,1.8,SUV,45014 km
+567,"413,000",Mini,Cooper,2019,Azul,Gasolina,3,Automática,1.5,Hatchback,33004 km
+568,"213,000",Nissan,Versa,2018,Azul,Gasolina,4,Manual,1.6,Sedán,54769 km
+569,"448,000",Toyota,Corolla,2021,Rojo,Híbrido,4,Automática,1.8,Sedán,51342 km
+570,"166,900",Chevrolet,Spark,2017,Negro,Gasolina,5,Manual,1.4,Hatchback,39354 km
+571,"591,000",Honda,CR-V,2020,Gris oscuro,Gasolina,5,Automática,1.5,Crossover,17680 km
+572,"491,000",Honda,Odyssey,2016,Rojo,Gasolina,5,Automática,3.5,Van,36426 km
+573,"785,000",Honda,Pilot,2020,Blanco,Gasolina,5,Automática,3.5,SUV,50812 km
+574,"635,000",Chevrolet,Suburban,2016,Plateado,Gasolina,5,Automática,5.3,SUV,51517 km
+575,"241,000",Honda,Fit,2017,Azul,Gasolina,5,Automática,1.5,Hatchback,93385 km
+576,"685,000",Honda,CR-V,2021,Gris oscuro,Gasolina,5,Automática,1.5,SUV,11348 km
+577,"411,999",Honda,Civic,2020,Azul,Gasolina,4,Automática,1.5,Sedán,45868 km
+578,"260,000",Honda,Accord,2015,Negro,Gasolina,4,Automática,3.5,Coupé,109783 km
+579,"355,000",Toyota,Prius,2017,Rojo,Híbrido,5,Automática,1.8,Sedán,78320 km
+580,"230,000",Mazda,Mazda 6,2015,Rojo,Gasolina,5,Manual,2.0,Hatchback,155388 km
+581,"149,000",Dodge,Attitude,2016,Blanco,Gasolina,4,Automática,1.2,Sedán,54930 km
+582,"260,000",SEAT,Ibiza,2017,Blanco,Gasolina,5,Manual,1.6,Hatchback,78076 km
+583,"325,000",Toyota,Prius,2019,Verde,Gasolina,4,Automática,4,Hatchback,79650 km
+584,"246,000",Subaru,Forester,2015,Negro,Gasolina,5,Automática,2.5,SUV,107652 km
+585,"189,900",Chevrolet,Beat,2019,Blanco,Gasolina,5,Manual,1.2,Hatchback,44097 km
+586,"425,000",Mercedes-Benz,Clase CLA,2016,Plateado,Gasolina,4,Automática,1.6,Sedán,50253 km
+587,"235,000",Kia,Rio,2017,Negro,Gasolina,5,Manual,1.6,Hatchback,64251 km
+588,"475,000",Audi,A1,2021,Negro,Gasolina,5,Automática,1.0,Hatchback,5955 km
+589,"354,000",Nissan,Kicks,2019,Plateado,Gasolina,5,Automática,1.6,SUV,38460 km
+590,"225,000",Renault,Duster,2017,Negro,Gasolina,5,Manual,2.0,SUV,92000 km
+591,"408,000",Kia,Sorento,2018,Dorado,Gasolina,5,Automática,2.4,SUV,68737 km
+592,"560,000",Nissan,Urvan,2020,Blanco,Gasolina,3,Manual,2.5,Van,25300 km
+593,"430,000",Hyundai,Creta,2020,Blanco,Gasolina,5,Automática,1.6,SUV,13538 km
+594,"279,000",Kia,Soul,2019,Rojo,Gasolina,5,Manual,1.6,SUV,28014 km
+595,"445,000",Toyota,Corolla,2020,Rojo,Híbrido,4,Automática,1.8,Sedán,60796 km
+596,"206,000",Mitsubishi,Mirage,2019,Rojo,Gasolina,5,Manual,1.2,Hatchback,29873 km
+597,"377,000",Nissan,Kicks,2020,Rosa claro,Gasolina,5,Automática,1.6,SUV,16114 km
+598,"199,000",Mitsubishi,Mirage,2019,Azul,Gasolina,4,Manual,1.2,Hatchback,75798 km
+599,"260,900",Nissan,March,2021,Blanco,Gasolina,5,Manual,1.6,Hatchback,5200 km
+600,"280,000",Renault,Captur,2019,Rojo,Gasolina,5,Automática,2.0,SUV,59806 km
+601,"295,000",Honda,HR-V,2016,Azul,Gasolina,5,Automática,1.8,SUV,99504 km
+602,"208,000",Honda,City,2016,Plateado,Gasolina,4,Manual,1.5,Sedán,54825 km
+603,"213,000",Dodge,Attitude,2018,Blanco,Gasolina,4,Manual,1.2,Sedán,54057 km
+604,"215,000",Nissan,March,2020,Plateado,Gasolina,5,Manual,1.6,Hatchback,30832 km
+605,"391,000",Kia,Sportage,2017,Blanco,Gasolina,5,Automática,2.0,SUV,56659 km
